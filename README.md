@@ -9,7 +9,7 @@
 
 <br>
 
-<h2 style:"color: #565656"> Ferramentas!! </h2>
+<h2 style="color: #565656"> Ferramentas!! </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
