@@ -1,4 +1,4 @@
-## Olá Eu sou Vinicius mais conhecido como Slayeeer. 
+## Eaii, Eu sou Vinicius Dias mais conhecido pelo meu nickname Slayeeer!!. 
 
 <div>
    <a href="https://github.com/slayeeer">
