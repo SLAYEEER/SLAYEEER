@@ -12,9 +12,9 @@
 <h2> Ferramentas!! </h2>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="70" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="70" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="70" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJs" height="70" width="150" src="https://nodejs.org/static/images/logo.svg">
+  <img align="center" alt="Js" height="70" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="70" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NodeJs" height="70" width="140" src="https://nodejs.org/static/images/logo.svg">
 </div>
  
